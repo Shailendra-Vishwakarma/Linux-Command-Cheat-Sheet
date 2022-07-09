@@ -1,4 +1,4 @@
-                                    ✍✍✍✍✍ Linux Cheat Sheet for Beginners ✍✍✍✍✍
+                                    ✍✍✍✍✍ Linux Basic Commands Cheat Sheet for Beginners ✍✍✍✍✍
                                     
                                     
                                                         ✋✋✋ System Info ✋✋✋
