@@ -2,7 +2,7 @@
 
 👉 File Commands:
 
-✅ls – directory listing
+✅ls – directory listing 
 ✅ls -a directory listing including hidden file and Directory (.filename & .foldername)
 ✅ls -al – formatted listing with hidden files
 ✅cd directory_name - change directory to directory_name (eg cd /etc/)
