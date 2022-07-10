@@ -95,6 +95,7 @@
 ✎ chmod 755 – rwx for owner, rx for group and world
 
 ✎chmod  734 – read,write,excute for owner & write,excute for group and read for world
+
                                            ✋✋✋ Process Management ✋✋✋
 
 ✅ ps – display your currently active processes
